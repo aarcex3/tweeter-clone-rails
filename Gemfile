@@ -67,3 +67,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'bulma-rails', '~> 0.9.4'
+gem 'devise', '~> 4.9', '>= 4.9.3'
+gem 'simple_form', '~> 5.3'
+gem 'gravatar_image_tag', '~> 1.2'
